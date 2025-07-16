@@ -3,8 +3,9 @@ URL: https://vue-learn-language.vercel.app/
 
 - This application is created by  below techniques
 
-      ・Vue.js 
-　  ・Laravel
+・Vue.js
+
+・Laravel
 
 ・Tailwind CSS
 
